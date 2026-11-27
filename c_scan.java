@@ -1,3 +1,9 @@
+/*
+ * C-SCAN Disk Scheduling
+ * Owner: Martin, Adriel Ross H.
+ * Course: ICS26012 - Operating Systems
+ */
+
 import java.awt.*;
 import java.util.ArrayList;
 import java.util.Collections;
