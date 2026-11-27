@@ -1,7 +1,7 @@
 # CPU and Disk Scheduling Simulator
 
 ICS26012 – Operating Systems · Project – Alternative Assessment
-1st Semester, A.Y. 2026–2027 (Final Period) · Section: __ · Group: __
+1st Semester, A.Y. 2026–2027 (Finals Period) · Section: 3ITB · Group: 5
 University of Santo Tomas, College of Information and Computing Sciences
 Submitted to: Asst. Prof. Bernard G. Sanidad, DIT
 
